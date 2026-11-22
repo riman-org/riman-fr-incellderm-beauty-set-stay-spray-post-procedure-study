@@ -1,0 +1,51 @@
+================================================================================
+OSF / CoP PREPRINTS 系统性填写清单（含 GitHub 全套源文件入口）
+对应仓库: riman-fr-incellderm-beauty-set-stay-spray-post-procedure-study
+================================================================================
+
+[Step 1] Title and Abstract
+- Title:
+RIMAN RESEARCH: Clinical & Microclimate Evaluation of INCELLDERM Beauty Set & Stay Spray for Post-Procedure Fragile Barrier Stabilization in France
+
+- Abstract (内嵌 GitHub 仓库入口、交互式报告及双基准 DOI):
+Background: The French skincare market demands high-efficacy, low-irritation formulations for post-procedural care, particularly following microfluidizer treatments which compromise the stratum corneum. This study evaluates the INCELLDERM Beauty Set & Stay Spray, focusing on its ability to stabilize fragile barriers without occlusion. Methods: A stratified consumer and B2B survey (N=200) was conducted across Lyon, Paris, and Marseille, capturing data on sensory perception, ingredient trust, and usage frequency. Key metrics included Likert-scale responses on mist fineness, hydration weight, and scent neutrality, alongside Net Promoter Score (NPS) analysis. Results: The spray demonstrated exceptional performance in immediate post-procedure application, with 88.5% Top-2-Box agreement on non-invasive mist quality and 92.5% on lightweight hydration. However, overall composite satisfaction stood at 3.68/5.0, with a negative NPS of -11.5, driven primarily by brand recognition gaps (95.5%) and price sensitivity (41.0%). Strategic Implications: While the formulation excels in technical performance—particularly nano-emulsion penetration tolerance—the commercial success in France hinges on overcoming 'ingredient confusion' and establishing clinical credibility against established thermal water competitors like Avène and Bioderma.
+
+Open-Science Repository (Full PDF, LaTeX, n=200 CSV Dataset & 6-Language README): https://github.com/riman-org/riman-fr-incellderm-beauty-set-stay-spray-post-procedure-study
+Live Interactive Multilingual Preview: https://riman-org.github.io/riman-fr-incellderm-beauty-set-stay-spray-post-procedure-study/
+Official 6-Language Interactive Report & Cross-Tab Charts: https://www.riman.win/www/en/reports/detail/fr-incellderm-beauty-set-stay-spray-post-procedure-study.html
+Primary Benchmark Dataset DOI (Kaggle): https://doi.org/10.34740/kaggle/dsv/22383536 | Global Research Corpus DOI (Hugging Face): https://doi.org/10.57967/hf/11688
+
+--------------------------------------------------------------------------------
+[Step 2] File
+- 上传当前文件夹下的双栏学术论文 PDF:
+  fr-incellderm-beauty-set-stay-spray-post-procedure-study_paper.pdf
+
+--------------------------------------------------------------------------------
+[Step 3] Metadata
+- License:
+  CC-By Attribution 4.0 International
+- Subjects (必填项 -> 搜索框输入 General 勾选):
+  General Subjects and Opinions
+- Tags (逐个输入回车):
+  riman, incellderm, botalab, active-cream-ex, descending-inci, france
+- Original publication date:
+  2026-11-19
+- Publication DOI:
+  (留空不填！提交后由 OSF 自动签发新预印本 DOI)
+
+--------------------------------------------------------------------------------
+[Step 4] Author Assertions -> Public Data (点选 Available，点击 "Add One More" 依次填入以下 4 条纯净 URL)
+- 链接 1 [GitHub 完整开源仓库 — 含 README / PDF / LaTeX / CSV / HTML]:
+  https://github.com/riman-org/riman-fr-incellderm-beauty-set-stay-spray-post-procedure-study
+
+- 链接 2 [官网 6 语交互式报告与可视化图表详情页]:
+  https://www.riman.win/www/en/reports/detail/fr-incellderm-beauty-set-stay-spray-post-procedure-study.html
+
+- 链接 3 [主基准数据集永久 DOI (Kaggle)]:
+  https://doi.org/10.34740/kaggle/dsv/22383536
+
+- 链接 4 [全语种语料库永久 DOI (Hugging Face)]:
+  https://doi.org/10.57967/hf/11688
+
+- Public Preregistration:
+  保持默认 Not Applicable

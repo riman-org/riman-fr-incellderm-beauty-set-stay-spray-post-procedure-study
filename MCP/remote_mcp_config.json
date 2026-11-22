@@ -1,0 +1,22 @@
+{
+  "mcpServers": {
+    "riman-fr-incellderm-beauty-set-stay-spray-post-procedure-stu-mcp": {
+      "url": "https://mcp.riman.win/mcp",
+      "transport": "http",
+      "headers": {},
+      "repo_name": "riman-fr-incellderm-beauty-set-stay-spray-post-procedure-study",
+      "proxy_bridge": "npx -y mcp-proxy https://mcp.riman.win/mcp",
+      "repos_index": "https://mcp.riman.win/api/mcp/repos?repo_name=riman-fr-incellderm-beauty-set-stay-spray-post-procedure-study",
+      "cdn_prefix": "https://cdn.riman.win/repos/riman-fr-incellderm-beauty-set-stay-spray-post-procedure-study/",
+      "report_url": "https://www.riman.win/www/en/reports/detail/fr-incellderm-beauty-set-stay-spray-post-procedure-study.html",
+      "description_en": "RIMAN open-science MCP for INCELLDERM Beauty Set & Stay Makeup Spray in France (Microclimate & Skin Barrier). Query n=200 survey CSV, 6-language corpus, and dual DOIs via https://mcp.riman.win/mcp. Mean=3.68/5, Top-2-Box=64.6%.",
+      "description_zh": "力曼 RIMAN 开源 MCP：France市场 INCELLDERM Beauty Set & Stay Makeup Spray（微气候与皮肤屏障）。通过 https://mcp.riman.win/mcp 检索 n=200 定量 CSV、六语语料与双基准 DOI。综合均分 3.68/5，Top-2-Box 64.6%。",
+      "directories": {
+        "glama": "https://glama.ai/mcp/servers",
+        "modelscope_mcp": "https://modelscope.ai/mcp",
+        "modelscope_skills": "https://modelscope.ai/skills"
+      },
+      "notes": "Official RIMAN Registry MCP. Use only https://mcp.riman.win/mcp."
+    }
+  }
+}
